@@ -12,7 +12,6 @@ and quantitative evaluation of signal reconstruction.
 - Computes one-sided amplitude spectra
 - Designs and applies a Butterworth band-pass filter
 - Compares clean, noisy, and filtered signals
-- Evaluates filtering performance using SNR and MSE
 
 ## Signal Processing Pipeline
 
@@ -27,8 +26,6 @@ Frequency-Domain Analysis
 Butterworth Band-Pass Filter
 ↓
 Filtered Signal
-↓
-SNR / MSE Evaluation
 
 ## Example Results
 
@@ -47,5 +44,3 @@ SNR / MSE Evaluation
 - Digital Signal Processing
 - Butterworth Filtering
 - Gaussian Noise Modeling
-- SNR
-- Mean Squared Error (MSE)
